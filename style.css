@@ -1,0 +1,44 @@
+body,html{
+font-family: Arial, Helvetica, sans-serif;
+height: 100%;
+width: 100vw;
+display: flex;
+justify-content: center;
+align-items: center;
+background: url(CristianDj.jpg) center center ;
+background-size: cover;
+}
+.contenedor{
+text-align: center;
+padding: 20px;
+background-color: white;
+border-radius: 10px;
+box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.1);
+}
+.boton-redireccion{
+background-color:blue;
+color: white;
+padding: 10px 20px;
+display: inline-block;
+margin-top: 20px;
+border-radius: 5px;
+text-decoration: none;
+}
+.boton-redireccion-2{
+background-color: orange;
+color: white;
+padding: 10px 20px;
+display: inline-block;
+margin-top: 20px;
+border-radius: 5px;
+text-decoration: none;
+}
+.boton-redireccion-3{
+background-color:aqua;
+color: white;
+padding: 10px 20px;
+display: inline-block;
+margin-top: 20px;
+border-radius: 5px;
+text-decoration: none;
+}
