@@ -16,7 +16,7 @@ border-radius: 10px;
 box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.1);
 }
 .boton-redireccion{
-background-color:blue;
+background-color: black;
 color: white;
 padding: 10px 20px;
 display: inline-block;
@@ -25,8 +25,8 @@ border-radius: 5px;
 text-decoration: none;
 }
 .boton-redireccion-2{
-background-color: orange;
-color: white;
+background-color:deeppink;
+color: orange;
 padding: 10px 20px;
 display: inline-block;
 margin-top: 20px;
@@ -34,7 +34,16 @@ border-radius: 5px;
 text-decoration: none;
 }
 .boton-redireccion-3{
-background-color:aqua;
+background-color: blue;
+color: white;
+padding: 10px 20px;
+display: inline-block;
+margin-top: 20px;
+border-radius: 5px;
+text-decoration: none;
+}
+.boton-redireccion-4{
+background-color: green;
 color: white;
 padding: 10px 20px;
 display: inline-block;
